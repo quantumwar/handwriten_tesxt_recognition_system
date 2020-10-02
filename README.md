@@ -1,0 +1,1 @@
+# handwriten_tesxt_recognition_system
